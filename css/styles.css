@@ -1,0 +1,29 @@
+#header-nav {
+  background-color: #8c8c8c;
+  color: #0d0d0d;
+  border-radius: 0;
+}
+
+#navbar-brand-title, .navbar-collapse {
+  color: #0d0d0d;
+}
+
+/*.navbar-toggle {
+  background-color: black !important;
+}*/
+
+.menu-item {
+  background-color: #8c8c8c;
+  margin-top: 20px;
+  padding: 10px;
+  overflow: hidden;
+  padding: 10px;
+  margin: 40px 20px 40px 20px;
+  color: #0d0d0d;
+}
+
+@media (max-width: 768px) {
+  .navbar-collapse {
+    background-color: white;
+  }
+}
