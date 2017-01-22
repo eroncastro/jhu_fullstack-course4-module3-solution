@@ -8,9 +8,9 @@
   color: #0d0d0d;
 }
 
-/*.navbar-toggle {
-  background-color: black !important;
-}*/
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #0d0d0d;
+}
 
 .menu-item {
   background-color: #8c8c8c;
