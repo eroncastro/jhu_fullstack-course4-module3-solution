@@ -29,22 +29,18 @@
 }
 
 #nav-list {
-  padding: 0;
-  margin: 0;
-}
-
-#nav-list {
-  margin: 0;
-  padding: 0;
+  margin: 5px -15px;
 }
 
 #nav-list a {
   color: #0d0d0d;
+  font-size: 1.2em;
   text-align: center;
+  display: block;
 }
 
 #nav-list li a:hover {
-  background: #E7E7E7;
+  background: #8c8c8c;
 }
 
 @media (max-width: 768px) {
